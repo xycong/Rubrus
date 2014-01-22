@@ -8,3 +8,6 @@ Players play the game using the mouse and keyboard. The mouse can be used to mov
 Rubrus was created in Grade 11 using Java and Eclipse
 
 Rubrus was a group collaboration between Tristan Amini, Chen Chou and myself. Tristan wrote the interaction between pieces and the movement of pieces. Chen worked on assigning the input devices (mouse, keyboard) to navigating and playing the game. Using JFrame and JPanel, I designed the GUI of the game. I created all the graphics, UI (menus) and designs of pieces in Adobe Photoshop and Illustrator and then implemented them into the game panel.
+
+![ScreenShot](https://raw.github.com/xycong/Rubrus/master/MainMenu.jpg)
+![ScreenShot](https://raw.github.com/xycong/Rubrus/master/Instructions-02.jpg)
